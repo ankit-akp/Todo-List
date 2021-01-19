@@ -1,0 +1,17 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#ulTasks li.done{
+    color:#6c757d;
+    text-decoration: line-through;
+}
+body{
+    background-image: url(image/imga.jpg);
+}
+label,h1{
+    color: white;
+}
+/* #ulTasks li{
+    background: transparent;
+    color:white
+} */
